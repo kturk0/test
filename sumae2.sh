@@ -8,5 +8,7 @@ do
 	let suma=$suma+$i
 done
 echo $suma
+echo $suma
+echo $suma
 
 exit 0
